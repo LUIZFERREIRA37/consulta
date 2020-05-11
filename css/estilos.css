@@ -1,0 +1,22 @@
+.head {
+  Color: green;
+}
+
+.menu ul {
+display: flex; /*coloca o menu lado a lado */
+justify-content: space-between;/*colocar espaço no menu*/
+}
+
+.menu li { /*muda apenas os li */
+list-style: none;
+}
+
+a {
+color: teal;
+text-declaration: none;
+}
+
+.site-title{
+color: black;
+text-align:center;
+}
